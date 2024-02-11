@@ -7,3 +7,4 @@ A simple window that displays cursor coordinates.
 - pyautogui (pip install pyautogui)
 
 ## Preview
+![Alt Text]()
